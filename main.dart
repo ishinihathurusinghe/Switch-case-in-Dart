@@ -1,6 +1,6 @@
-                void main() {
+                 void main() {
   String day = "Sunday";
-
+ 
   switch(day){
 
     case "Monday":
